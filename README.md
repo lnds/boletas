@@ -20,6 +20,10 @@ impuesto y el líquido, en los dos escenarios posibles:
 El monto en UF se puede ingresar como bruto o como líquido deseado; en el
 segundo caso se hace el *gross-up* (`bruto = líquido / (1 - tasa)`).
 
+Con el botón **Imprimir** se genera una hoja limpia con el detalle del
+cálculo: los datos de entrada, el desglose y el total, sin los controles de la
+página. Es un respaldo del cálculo, no un documento tributario.
+
 ## Criterios de cálculo
 
 - **Tasa de retención**: la vigente según la Ley 21.133, que la sube de forma
